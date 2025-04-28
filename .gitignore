@@ -1,0 +1,50 @@
+# Latex files
+
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.tui
+*.top
+*.tmp
+*.mp
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.pdf
+*.bak
+*.bib.bak
+
+# vim swap files
+*.swp
+
+# latexmk files
+*.fdb_latexmk
+
+# word tmp-files
+~*.docx
+
+# xelatex
+*.run.xml
+*.fls
+*.bcf
+*.xdv
+
+# JabRef save
+*.sav
